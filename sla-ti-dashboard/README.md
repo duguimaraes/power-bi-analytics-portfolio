@@ -28,6 +28,7 @@ Monitor and analyze IT service desk performance through SLA metrics, identifying
 ## 🖼️ Dashboard Preview
 
 ![Overview](./images/overview.png)
+![Overview](./images/overview2.png)
 
 ---
 
