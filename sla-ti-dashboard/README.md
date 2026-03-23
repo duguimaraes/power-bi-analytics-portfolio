@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-Monitor and analyze IT service desk performance through SLA metrics, identifying operational bottlenecks, delays, and opportunities for process improvement.
+Assist management presentations by providing clear visibility into IT service performance, including open tickets, average resolution time, and workload distribution.
 
 ---
 
@@ -20,7 +20,7 @@ Monitor and analyze IT service desk performance through SLA metrics, identifying
 * Total number of tickets (open vs closed)
 * Average resolution time
 * SLA compliance rate
-* Ticket distribution by category and priority
+* Ticket distribution by category, system and priority
 * Analyst performance (handling time and workload)
 
 ---
@@ -34,9 +34,9 @@ Monitor and analyze IT service desk performance through SLA metrics, identifying
 
 ## 💡 Insights
 
-* Higher resolution times were identified in specific service categories, indicating potential process inefficiencies.
-* SLA breaches tend to occur during peak demand periods, suggesting the need for workload redistribution.
-* Certain analysts show consistently higher workloads, highlighting opportunities for better task allocation.
+* Provides strong support for management-level presentations, offering a clear view of IT service performance and workload distribution.
+* Enables quick identification of tickets with long resolution times, helping prioritize critical cases.
+* Supports decision-making for reallocating tickets across analysts, improving overall efficiency and SLA compliance.
 * Tickets involving third-party dependencies significantly impact resolution time.
 
 ---
@@ -53,10 +53,7 @@ This project includes SQL queries organized in a single file (`queries.sql`), co
 ---
 
 ## 📊 Data Modeling
-
-* Data was modeled using a star-schema approach in Power BI
-* Fact table: service tickets
-* Dimensions: time, analyst, category, business unit
+Data was structured and transformed in Power BI using Power Query and DAX, ensuring efficient analysis and clear visualization of key metrics.
 
 ---
 
