@@ -1,5 +1,7 @@
 # 📊 Power BI Analytics Portfolio – Eduardo L. Guimarães
 
+🇧🇷 Leia em Português: [README-pt.md](./README-pt.md)
+
 Business Intelligence professional focused on building data-driven solutions using Power BI, SQL, and DAX.
 Experienced in developing end-to-end dashboards that support operational and strategic decision-making across multiple business areas.
 
@@ -131,8 +133,8 @@ Track manual weighing operations performed on load scales.
 
 ## 📫 Contact
 
-* LinkedIn: *(adicione aqui)*
-* Email: *(opcional)*
+* LinkedIn: *https://www.linkedin.com/in/eduardo-ladeira-guimar%C3%A3es-a272a427b/*
+* Email: *eduardoldrds@gmail.com*
 
 ---
 
