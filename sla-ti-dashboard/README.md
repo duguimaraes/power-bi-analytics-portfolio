@@ -68,7 +68,8 @@ Data was structured and transformed in Power BI using Power Query and DAX, ensur
 
 This dashboard enables:
 
-* Better visibility into IT support performance
-* Faster identification of SLA risks
-* Data-driven decision-making for resource allocation
-* Continuous improvement of service processes
+* Support for management presentations with clear and structured IT service data
+* Better control and monitoring of open tickets
+* Clear visibility of average resolution time and execution performance
+* Improved tracking of workload distribution across analysts
+* Faster identification of tickets with long resolution times, enabling prioritization and reallocation
