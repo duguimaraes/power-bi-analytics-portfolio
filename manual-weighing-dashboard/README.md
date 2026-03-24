@@ -29,7 +29,10 @@ Support management presentations by providing clear visibility into manually rec
 
 ## 🖼️ Dashboard Preview
 
-![Overview](./images/overview.png)
+![Overview](./images/overview.gif)
+![Overview](./images/overview1.png)
+![Overview](./images/overview2.png)
+![Overview](./images/overview3.png)
 
 ---
 
