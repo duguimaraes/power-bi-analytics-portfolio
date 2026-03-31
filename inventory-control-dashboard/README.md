@@ -28,9 +28,7 @@ Support management presentations by providing clear visibility into inventory le
 
 ## 🖼️ Dashboard Preview
 
-![Inventory Overview](./images/overview.png)
-
-![Obsolete Inventory Analysis](./images/overview2.png)
+![Inventory Overview](./images/overview.gif)
 
 ---
 
