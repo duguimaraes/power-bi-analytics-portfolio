@@ -3,28 +3,28 @@
 
 ## 🎯 Objetivo
 
-Apoiar a gestão com uma visão clara das paradas operacionais da máquina Busa, permitindo monitorar o desempenho do equipamento, identificar falhas recorrentes e analisar o impacto das paradas no processo de beneficiamento de algodão.
+Apoiar a gestão e a visibilidade dos eventos de tempo de inatividade operacional na máquina Busa, permitindo um melhor monitoramento do desempenho do equipamento, a identificação de falhas recorrentes e a análise do impacto do tempo de inatividade na operação de processamento de algodão.
 
 ---
 
 ## 🧰 Ferramentas & Tecnologias
 
 * Power BI (Visualização de Dados)
-* DAX (Métricas e Indicadores)
+* DAX (Medidas e KPIs)
 * SQL (Extração e Transformação de Dados)
-* Power Query (Tratamento de Dados)
+* Power Query (Limpeza e Modelagem de Dados)
 
 ---
 
 ## 📈 Principais Métricas
 
-* Tempo total de parada (minutos)
-* Tempo efetivo parado (considerando percentual de impacto)
-* Paradas por componente
-* Paradas por causa
-* Paradas por motivo operacional
-* Distribuição por turno e sessão
-* Paradas por unidade operacional
+* Tempo total de inatividade (horas e minutos)
+* Tempo de inatividade efetivo da sessão (considerando a porcentagem de impacto)
+* Porcentagem de eficiência da sessão
+* Tempo de inatividade por componente
+* Tempo de inatividade por motivo operacional
+* Distribuição do tempo de inatividade por turno e sessão
+* Tempo de inatividade por unidade de negócios (instalação)
 
 ---
 
@@ -36,11 +36,11 @@ Apoiar a gestão com uma visão clara das paradas operacionais da máquina Busa,
 
 ## 💡 Insights
 
-* Apoia apresentações gerenciais com uma visão clara das paradas operacionais e desempenho do equipamento.
-* Permite identificar componentes com maior impacto nas paradas, auxiliando na priorização de manutenção.
-* Evidencia as principais causas das paradas, permitindo ações direcionadas para redução de falhas.
-* Possibilita análise dos motivos operacionais, diferenciando paradas planejadas e não planejadas.
-* Ajuda a entender o comportamento das paradas ao longo dos turnos, melhorando o planejamento operacional.
+* Oferece forte suporte para apresentações gerenciais, proporcionando visibilidade clara do tempo de inatividade operacional e do desempenho dos equipamentos
+* Permite a identificação dos componentes com maior impacto no tempo de inatividade, auxiliando na priorização da manutenção.
+* Destaca as principais causas de tempo de inatividade, permitindo ações direcionadas para reduzir falhas.
+* Auxilia na análise de motivos operacionais, ajudando a distinguir entre paradas planejadas e não planejadas.
+* Permite o monitoramento do comportamento do tempo de inatividade ao longo dos turnos, melhorando o planejamento operacional e a eficiência.
 
 ---
 
