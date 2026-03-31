@@ -31,6 +31,7 @@ Support management visibility over operational downtime events in the Busa machi
 ## 🖼️ Dashboard Preview
 
 ![Overview](./images/overview.png)
+![Overview](./images/overview.gif)
 
 ---
 
