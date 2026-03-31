@@ -30,7 +30,7 @@ Apoiar a gestão com uma visão clara das paradas operacionais da máquina Busa,
 
 ## 🖼️ Visualização do Dashboard
 
-![Visão Geral](./images/overview.png)
+![Visão Geral](./images/overview.gif)
 
 ---
 
