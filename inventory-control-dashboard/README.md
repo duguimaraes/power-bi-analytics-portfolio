@@ -1,4 +1,5 @@
 # 📊 Inventory Movement & Obsolescence Dashboard
+🇧🇷 Versão em português: [README.pt-br.md](./README.pt-br.md)
 
 ## 🎯 Objective
 
