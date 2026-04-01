@@ -33,102 +33,154 @@ Atualmente trabalho como Assistente de Dados, mas também realizo tarefas alinha
 
 ---
 
-### 🔹 Inventário Obsoleto e Fluxo de Estoque Análise
+### 🔹 Inventory Control & Obsolete Stock Analysis
 
-**Objetivo:** Monitorar o estoque obsoleto, as movimentações de estoque (entrada/saída) e o impacto financeiro total.
+**Objetivo:**
+Monitorar movimentações de estoque (entradas e saídas), identificar itens obsoletos e analisar o impacto financeiro do estoque nas unidades.
 
 **Principais Insights:**
 
-* Identificação de itens obsoletos de alto valor e impacto financeiro do estoque inativo
-* Padrões de movimentação de estoque ao longo do tempo
-* Monitoramento em tempo real dos valores de estoque para todas as unidades
+* Identificação de itens obsoletos com alto impacto financeiro
+* Análise de fluxo de estoque ao longo do tempo
+* Visão consolidada de estoque por unidade e depósito
+* Suporte à tomada de decisão para redução de obsolescência
 
 ---
 
-### 🔹 Controle de Relacionamento da Produção de Algodão
+### 🔹 Cotton Production Traceability Dashboard
 
 **Objetivo:**
-Integrar campos de diferentes sistemas para facilitar a associação de bobinas e fardos de algodão exportados.
+Garantir a rastreabilidade entre fardos e rolos de produção de algodão, integrando dados de diferentes sistemas.
 
 **Principais Insights:**
 
-* Rastreabilidade da produção
-* Consistência entre sistemas
-* Reunir informações diversas em um só lugar
+* Rastreabilidade completa do processo produtivo
+* Validação e consistência entre sistemas distintos
+* Centralização de informações críticas da produção
+* Apoio à auditoria e controle operacional
 
 ---
 
-### 🔹 Controle de Estorno de Tickets SAP
+### 🔹 SAP Reversal Ticket Monitoring
 
 **Objetivo:**
-Monitorar tickets SAP estornados (incorretos) para reduzir inconsistências financeiras.
+Monitorar lançamentos estornados no SAP para identificar inconsistências e reduzir erros operacionais.
 
 **Principais Insights:**
 
-* Frequência de ocorrências de estornos
-* Departamentos com maiores taxas de erro
-* Impacto de lançamentos incorretos
+* Frequência de estornos por período
+* Identificação de áreas com maior incidência de erros
+* Análise de impacto financeiro de lançamentos incorretos
+* Suporte à melhoria de processos e governança
 
 ---
 
-### 🔹 Painel de Monitoramento de Custos de Energia
+### 🔹 Energy Cost Monitoring Dashboard
 
 **Objetivo:**
-Acompanhar os custos mensais de eletricidade em todas as unidades da empresa.
+Acompanhar e analisar os custos mensais de energia elétrica por unidade.
 
 **Principais Insights:**
 
 * Comparação de custos entre unidades
-* Tendências de consumo mensal
-* Identificação de anomalias de custos
+* Análise de tendências de consumo ao longo do tempo
+* Identificação de desvios e anomalias de custo
+* Apoio ao controle financeiro e otimização de despesas
 
 ---
 
-### 🔹 Controle de Despesas de Viagem (Adiantamentos e Reembolsos)
+### 🔹 Travel Advance & Expense Workflow Dashboard
 
 **Objetivo:**
-Analisar as despesas de viagem dos funcionários, incluindo adiantamentos e relatórios de prestação de contas.
+Acompanhar solicitações de adiantamento e prestação de contas de viagens, com foco em rastreabilidade de processos e responsáveis.
 
 **Principais Insights:**
 
-* Custo total por funcionário e departamento
-* Padrões de despesas e controle financeiro
-* Acompanhamento das etapas administrativas do processo
+* Identificação da etapa atual de cada solicitação
+* Visibilidade do responsável atual e tempo na atividade
+* Monitoramento de solicitações abertas e concluídas
+* Identificação de gargalos no fluxo administrativo
+* Apoio à gestão e acompanhamento operacional
 
 ---
 
-### 🔹 Painel de SLA de TI
+### 🔹 IT Service Desk SLA Dashboard
 
 **Objetivo:**
-Monitorar o desempenho da equipe de TI por meio de métricas de SLA.
+Monitorar o desempenho do atendimento de TI com base em métricas de SLA e tempo de execução dos chamados.
 
 **Principais Insights:**
 
-* Tickets abertos vs. fechados
-* Tempo médio de resolução
-* Taxa de conformidade com o SLA
-* Avaliação média do usuário
+* Controle de chamados abertos e fechados
+* Tempo médio de execução e atendimento
+* Avaliação de satisfação dos usuários
+* Identificação de atrasos e riscos de SLA
+* Apoio a apresentações gerenciais e tomada de decisão
 
 ---
 
-### 🔹 Painel de Controle de Pesagem Manual
+### 🔹 Manual Weighing Operations Dashboard
 
 **Objetivo:**
-Rastrear as operações de pesagem manual realizadas em balanças de carga.
+Analisar operações de pesagem manual em balanças de carga, identificando falhas no processo automatizado.
 
 **Principais Insights:**
 
-* Frequência de operações manuais
-* Comparação quantitativa entre processos automatizados e manuais por unidade
-* Monitoramento da eficiência e tempo de aprovação para liberações manuais.
+* Frequência de pesagens manuais por unidade
+* Identificação de fazendas com maior incidência
+* Análise de motivos e causas operacionais
+* Comparação entre processos manuais e automatizados
+* Apoio à melhoria de infraestrutura e processos
 
 ---
 
-## 📌 Observações
+### 🔹 Busa Machine Operational Downtime Dashboard
 
-* Todos os dados utilizados neste portfólio são **fictícios ou anonimizados** para fins de demonstração.
+**Objetivo:**
+Monitorar paradas operacionais da máquina Busa no processo de beneficiamento de algodão.
 
-* Os painéis foram desenvolvidos com base em **cenários de negócios reais**.
+**Principais Insights:**
+
+* Análise de tempo de parada (total e efetivo)
+* Identificação de causas, motivos e componentes críticos
+* Monitoramento de eficiência operacional
+* Apoio à manutenção e redução de downtime
+* Visão detalhada por safra, unidade e sessão
+
+---
+
+### 🔹 SAP Bulletin Entry Monitoring
+
+**Objetivo:**
+Acompanhar lançamentos operacionais (boletins) no SAP relacionados a diferentes tipos de operação.
+
+**Principais Insights:**
+
+* Controle de lançamentos por tipo (combustível, insumo, plantio, etc.)
+* Monitoramento por unidade e base de dados
+* Padronização e validação de registros operacionais
+* Apoio ao controle administrativo e consistência de dados
+
+---
+
+## 🚀 Observações
+
+Todos os projetos foram desenvolvidos utilizando:
+
+* SQL para extração e transformação de dados
+* Power BI para modelagem e visualização
+* DAX para criação de métricas e KPIs
+* Power Query para tratamento e preparação de dados
+
+Os dados apresentados estão **anonimizados e adaptados** para fins de portfólio, mantendo a lógica real de negócio.
+
+Os dashboards refletem cenários reais de:
+
+* operações industriais
+* controle financeiro
+* gestão administrativa
+* análise de desempenho operacional
+* rastreabilidade de processos
 
 ---
 
