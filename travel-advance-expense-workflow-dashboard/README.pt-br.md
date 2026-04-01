@@ -30,7 +30,8 @@ Apoiar a equipe administrativa fornecendo visibilidade clara sobre solicitaçõe
 
 ## 🖼️ Visualização do Dashboard
 
-![Visão Geral](./images/overview.png)
+![VisãoGeral](./images/overview.png)
+![VisãoGeral2](./images/overview.gif)
 
 ---
 
