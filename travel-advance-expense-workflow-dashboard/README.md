@@ -1,4 +1,5 @@
 # 📊 Travel Advance & Expense Workflow Dashboard
+🇧🇷 Versão em português: [README.pt-br.md](./README.pt-br.md)
 
 ## 🎯 Objective
 
