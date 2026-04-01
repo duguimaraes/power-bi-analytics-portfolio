@@ -31,6 +31,7 @@ Support the administrative team by providing clear visibility into travel-relate
 ## 🖼️ Dashboard Preview
 
 ![Overview](./images/overview.png)
+![Overview2](./images/overview.gif)
 
 ---
 
