@@ -22,8 +22,10 @@ Atualmente trabalho como Assistente de Dados, mas também realizo tarefas alinha
 ## 🛠️ Habilidades Técnicas
 
 * **Power BI** (DAX, Modelagem de Dados, Power Query)
-* **SQL** (SQL Server, AWS Athena)
+* **SQL e Bancos de Dados** (SQL Server, MySQL, PostgreSQL, Firebird, SAP HANA, AWS Athena)
+* **Cloud e Plataformas de Dados** (AWS)
 * **ETL e Transformação de Dados**
+* **Ferramentas de IA e Automação em BI** (Claude Code, GPT Codex, servidores MCP, integrações com bancos de dados, análise de PBIP, desenvolvimento de medidas DAX, otimização de modelagem semântica)
 * **Business Intelligence e Analytics**
 * **Design de Dashboards e Storytelling de Dados**
 
