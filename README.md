@@ -20,9 +20,11 @@ I currently work as a Data Assistant but actively perform tasks aligned with a *
 
 ## 🛠️ Technical Skills
 
-* **Power BI** (DAX, Data Modeling, Power Query)
-* **SQL** (SQL Server, AWS Athena)
+* **Power BI** (DAX, Data Modeling, Power Query, PBIP)
+* **SQL & Databases** (SQL Server, MySQL, PostgreSQL, Firebird, SAP HANA, AWS Athena)
+* **Cloud & Data Platforms** (AWS)
 * **ETL & Data Transformation**
+* **AI Tools & BI Automation** (Claude Code, GPT Codex, MCP servers, database integrations, PBIP analysis, DAX measure development, semantic modeling optimization)
 * **Business Intelligence & Analytics**
 * **Dashboard Design & Data Storytelling**
 
