@@ -48,7 +48,7 @@ Apoiar a visibilidade da gestão sobre as transações de estorno, permitindo um
 
 ## 📂 Dados e Consultas
 
-Este projeto inclui consultas SQL consolidadas em `queries.sql`, responsáveis ​​por:
+Este projeto inclui a consulta SQL consolidada em `queries.sql`, responsável ​​por:
 
 * Extrair registros relacionados a estornos de múltiplas unidades de negócio
 * Padronizar dados em diferentes esquemas de ERP
