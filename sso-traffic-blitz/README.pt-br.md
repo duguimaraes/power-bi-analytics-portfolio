@@ -45,7 +45,7 @@ Auxiliar a gestão de Segurança e Saúde Ocupacional (SSO), fornecendo visibili
 
 ## 📂 Dados & Consultas
 
-Este projeto inclui registros de inspeção estruturados para análise, contemplando:
+Este projeto inclui a consulta SQL consolidada em `queries.sql`, responsável por:
 
 * Dados de inspeção de condutores e veículos
 * Classificação de conformidades e não conformidades por item de segurança
