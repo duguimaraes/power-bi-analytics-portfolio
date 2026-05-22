@@ -151,6 +151,19 @@ To integrate fields from different systems in order to facilitate the associatio
 
 ---
 
+### 🔹 Mobile Living Area Inspection Dashboard
+
+**Objective:**  
+Monitor mobile living area inspections and provide visibility into compliance levels, infrastructure conditions, and operational safety requirements.
+
+**Key Insights:**
+
+* Compliance and non-compliance analysis by inspection category
+* Monitoring of infrastructure, conservation, and safety conditions
+* Identification of recurring inspection deviations to support corrective actions
+
+---
+
 ## 📌 Notes
 
 * All data used in this portfolio is **anonymized** for demonstration purposes.
