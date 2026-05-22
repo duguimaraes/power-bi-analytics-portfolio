@@ -1,5 +1,5 @@
 # 🚗 Dashboard de Inspeção de Trânsito
-🇧🇷 Versão em inglês: [README.md](./README.md)
+🇺🇸 Read in English: [README.md](./README.md)
 
 ## 🎯 Objetivo
 
