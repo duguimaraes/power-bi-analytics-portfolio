@@ -1,33 +1,31 @@
-# 📊 Portfólio de Análise com Power BI – Eduardo L. Guimarães
+# 📊 Portfólio de Análise de Dados com Power BI – Eduardo L. Guimarães
 
 🇺🇸 Read in English: [README.md](./README.md)
 
-Profissional de Business Intelligence focado na criação de soluções orientadas a dados usando Power BI, SQL e DAX.
-
-Experiência no desenvolvimento de dashboards completos que apoiam a tomada de decisões operacionais e estratégicas em diversas áreas de negócios.
+Profissional de Business Intelligence focado na construção de soluções orientadas por dados utilizando Power BI, SQL e DAX.  
+Experiência no desenvolvimento de dashboards ponta a ponta que apoiam a tomada de decisão operacional e estratégica em diferentes áreas do negócio.
 
 ---
 
 ## 🚀 Sobre Mim
 
-Atualmente trabalho como Assistente de Dados, mas também realizo tarefas alinhadas à função de **Analista de Dados / Analista de BI**, incluindo:
+Atualmente atuo como Assistente de Dados, mas desempenho ativamente atividades alinhadas ao papel de **Analista de Dados / Analista de BI**, incluindo:
 
-* Criação e otimização de consultas SQL (SQL Server, AWS Athena)
+* Escrita e otimização de consultas SQL (SQL Server, AWS Athena)
 * Modelagem e transformação de dados (Power Query / M)
-* Desenvolvimento de dashboards completos no Power BI (DAX, KPIs, storytelling)
-* Fornecimento de insights para diferentes áreas de negócios (operações, finanças, logística, TI)
+* Desenvolvimento completo de dashboards em Power BI (DAX, KPIs e storytelling)
+* Geração de insights para diferentes domínios de negócio (operações, financeiro, logística e TI)
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Competências Técnicas
 
-* **Power BI** (DAX, Modelagem de Dados, Power Query)
-* **SQL e Bancos de Dados** (SQL Server, PostgreSQL, Firebird, SAP HANA, AWS Athena)
-* **Cloud e Plataformas de Dados** (AWS)
-* **ETL e Transformação de Dados**
-* **Ferramentas de IA e Automação em BI** (Claude Code, GPT Codex, servidores MCP, integrações com bancos de dados, análise de PBIP, desenvolvimento de medidas DAX, otimização de modelagem semântica)
-* **Business Intelligence e Analytics**
-* **Design de Dashboards e Storytelling de Dados**
+* **Power BI** (DAX, Modelagem de Dados, Power Query, PBIP)
+* **SQL & Bancos de Dados** (SQL Server, PostgreSQL, Firebird, SAP HANA)
+* **Cloud & Plataformas de Dados** (AWS)
+* **Ferramentas de IA & Automação para BI** (Claude Code, GPT Codex, servidores MCP, integrações com banco de dados, análise PBIP, desenvolvimento de medidas DAX e otimização de modelagem semântica)
+* **Business Intelligence & Analytics**
+* **Design de Dashboards & Data Storytelling**
 
 ---
 
@@ -35,154 +33,115 @@ Atualmente trabalho como Assistente de Dados, mas também realizo tarefas alinha
 
 ---
 
-### 🔹 Inventory Control & Obsolete Stock Analysis
+### 🔹 Dashboard de SLA de TI
 
-**Objetivo:**
-Monitorar movimentações de estoque (entradas e saídas), identificar itens obsoletos e analisar o impacto financeiro do estoque nas unidades.
-
-**Principais Insights:**
-
-* Identificação de itens obsoletos com alto impacto financeiro
-* Análise de fluxo de estoque ao longo do tempo
-* Visão consolidada de estoque por unidade e depósito
-* Suporte à tomada de decisão para redução de obsolescência
-
----
-
-### 🔹 Cotton Production Traceability Dashboard
-
-**Objetivo:**
-Garantir a rastreabilidade entre fardos e rolos de produção de algodão, integrando dados de diferentes sistemas.
+**Objetivo:**  
+Monitorar o desempenho da equipe de TI por meio de métricas de SLA.
 
 **Principais Insights:**
 
-* Rastreabilidade completa do processo produtivo
-* Validação e consistência entre sistemas distintos
-* Centralização de informações críticas da produção
-* Apoio à auditoria e controle operacional
+* Chamados abertos vs encerrados
+* Tempo médio de resolução
+* Taxa de cumprimento de SLA
+* Avaliação média dos usuários
 
 ---
 
-### 🔹 SAP Reversal Ticket Monitoring
+### 🔹 Análise de Estoque Obsoleto & Fluxo de Estoque
 
-**Objetivo:**
-Monitorar lançamentos estornados no SAP para identificar inconsistências e reduzir erros operacionais.
+**Objetivo:**  
+Monitorar estoque obsoleto, movimentações de estoque (entrada/saída) e impacto financeiro total.
 
 **Principais Insights:**
 
-* Frequência de estornos por período
-* Identificação de áreas com maior incidência de erros
-* Análise de impacto financeiro de lançamentos incorretos
-* Suporte à melhoria de processos e governança
+* Identificação de itens obsoletos de alto valor e impacto financeiro do estoque inativo
+* Padrões de movimentação ao longo do tempo
+* Monitoramento em tempo real dos valores de estoque de todas as unidades
 
 ---
 
-### 🔹 Energy Cost Monitoring Dashboard
+### 🔹 Dashboard de Controle de Pesagem Manual
 
-**Objetivo:**
-Acompanhar e analisar os custos mensais de energia elétrica por unidade.
+**Objetivo:**  
+Acompanhar operações de pesagem manual realizadas em balanças de carregamento.
 
 **Principais Insights:**
 
-* Comparação de custos entre unidades
-* Análise de tendências de consumo ao longo do tempo
-* Identificação de desvios e anomalias de custo
-* Apoio ao controle financeiro e otimização de despesas
+* Frequência das operações manuais
+* Comparação quantitativa entre processos automatizados e manuais por unidade
+* Monitoramento da eficiência e do tempo de aprovação das liberações manuais
 
 ---
 
-### 🔹 Travel Advance & Expense Workflow Dashboard
+### 🔹 Controle de Despesas de Viagem (Adiantamentos & Prestação de Contas)
 
-**Objetivo:**
-Acompanhar solicitações de adiantamento e prestação de contas de viagens, com foco em rastreabilidade de processos e responsáveis.
+**Objetivo:**  
+Analisar despesas de viagem dos colaboradores, incluindo adiantamentos e prestações de contas.
 
 **Principais Insights:**
 
-* Identificação da etapa atual de cada solicitação
-* Visibilidade do responsável atual e tempo na atividade
-* Monitoramento de solicitações abertas e concluídas
-* Identificação de gargalos no fluxo administrativo
-* Apoio à gestão e acompanhamento operacional
+* Custo total por colaborador e departamento
+* Padrões de despesas e controle financeiro
+* Acompanhamento das etapas administrativas do processo
 
 ---
 
-### 🔹 IT Service Desk SLA Dashboard
+### 🔹 Controle de Relacionamento da Produção de Algodão
 
-**Objetivo:**
-Monitorar o desempenho do atendimento de TI com base em métricas de SLA e tempo de execução dos chamados.
+**Objetivo:**  
+Integrar campos provenientes de diferentes sistemas para facilitar a associação entre fardos e rolos de algodão exportados.
 
 **Principais Insights:**
 
-* Controle de chamados abertos e fechados
-* Tempo médio de execução e atendimento
-* Avaliação de satisfação dos usuários
-* Identificação de atrasos e riscos de SLA
-* Apoio a apresentações gerenciais e tomada de decisão
+* Rastreabilidade da produção
+* Consistência entre sistemas
+* Consolidação de informações diversas em um único local
 
 ---
 
-### 🔹 Manual Weighing Operations Dashboard
+### 🔹 Controle de Estorno de Tickets SAP
 
-**Objetivo:**
-Analisar operações de pesagem manual em balanças de carga, identificando falhas no processo automatizado.
+**Objetivo:**  
+Monitorar tickets SAP estornados (lançamentos incorretos) para reduzir inconsistências financeiras.
 
 **Principais Insights:**
 
-* Frequência de pesagens manuais por unidade
-* Identificação de fazendas com maior incidência
-* Análise de motivos e causas operacionais
-* Comparação entre processos manuais e automatizados
-* Apoio à melhoria de infraestrutura e processos
+* Frequência das ocorrências de estorno
+* Departamentos com maiores índices de erro
+* Impacto dos lançamentos incorretos
 
 ---
 
-### 🔹 Busa Machine Operational Downtime Dashboard
+### 🔹 Dashboard de Paradas Operacionais BUSA
 
-**Objetivo:**
-Monitorar paradas operacionais da máquina Busa no processo de beneficiamento de algodão.
+**Objetivo:**  
+Monitorar eventos de parada operacional e fornecer visibilidade sobre disponibilidade, interrupções e indicadores de desempenho operacional.
 
 **Principais Insights:**
 
-* Análise de tempo de parada (total e efetivo)
-* Identificação de causas, motivos e componentes críticos
-* Monitoramento de eficiência operacional
-* Apoio à manutenção e redução de downtime
-* Visão detalhada por safra, unidade e sessão
+* Análise da ocorrência e duração das paradas
+* Monitoramento da disponibilidade operacional por unidade e período
+* Identificação de causas recorrentes e oportunidades de otimização de processos
 
 ---
 
-### 🔹 SAP Bulletin Entry Monitoring
+### 🔹 Dashboard de Inspeção de Trânsito
 
-**Objetivo:**
-Acompanhar lançamentos operacionais (boletins) no SAP relacionados a diferentes tipos de operação.
+**Objetivo:**  
+Monitorar atividades de inspeção de trânsito e fornecer visibilidade sobre a conformidade de condutores e veículos em relação aos requisitos de segurança operacional.
 
 **Principais Insights:**
 
-* Controle de lançamentos por tipo (combustível, insumo, plantio, etc.)
-* Monitoramento por unidade e base de dados
-* Padronização e validação de registros operacionais
-* Apoio ao controle administrativo e consistência de dados
+* Análise de conformidades e não conformidades por item de inspeção
+* Monitoramento das condições de segurança de condutores e veículos
+* Identificação de desvios recorrentes para apoiar ações preventivas
 
 ---
 
-## 🚀 Observações
+## 📌 Observações
 
-Todos os projetos foram desenvolvidos utilizando:
-
-* SQL para extração e transformação de dados
-* Power BI para modelagem e visualização
-* DAX para criação de métricas e KPIs
-* Power Query para tratamento e preparação de dados
-
-Os dados apresentados estão **anonimizados e adaptados** para fins de portfólio, mantendo a lógica real de negócio.
-
-Os dashboards refletem cenários reais de:
-
-* operações industriais
-* controle financeiro
-* gestão administrativa
-* análise de desempenho operacional
-* rastreabilidade de processos
+* Todos os dados utilizados neste portfólio são **anonimizados** para fins de demonstração.
+* Os dashboards foram desenvolvidos com base em **cenários reais de negócio**.
 
 ---
 
