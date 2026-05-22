@@ -33,7 +33,7 @@ I currently work as a Data Assistant but actively perform tasks aligned with a *
 
 ---
 
-### 🔹 IT SLA Dashboard
+### 🔹 [IT SLA Dashboard](./sla-ti-dashboard)
 
 **Objective:**
 Monitor IT team performance through SLA metrics.
