@@ -47,7 +47,7 @@ Monitor IT team performance through SLA metrics.
 
 ---
 
-### 🔹 Obsolete Inventory & Stock Flow Analysis
+### 🔹 [Obsolete Inventory & Stock Flow Analysis](./inventory-control-dashboard)
 
 **Objective:**
 Monitor obsolete inventory, stock movements (inbound/outbound), and total financial impact.
@@ -60,7 +60,7 @@ Monitor obsolete inventory, stock movements (inbound/outbound), and total financ
 
 ---
 
-### 🔹 Manual Weighing Control Dashboard
+### 🔹 [Manual Weighing Control Dashboard](./manual-weighing-dashboard)
 
 **Objective:**
 Track manual weighing operations performed on load scales.
@@ -73,7 +73,7 @@ Track manual weighing operations performed on load scales.
 
 ---
 
-### 🔹 Travel Expense Control (Advances & Reimbursements)
+### 🔹 [Travel Expense Control (Advances & Reimbursements)](./travel-advance-expense-workflow-dashboard)
 
 **Objective:**
 Analyze employee travel expenses including advances and accountability reports.
@@ -99,7 +99,7 @@ To integrate fields from different systems in order to facilitate the associatio
 
 ---
 
-### 🔹 SAP Ticket Reversal Control
+### 🔹 [SAP Ticket Reversal Control](./sap-bulletin-reversal-dashboard)
 
 **Objective:**
 Monitor reversed (incorrect) SAP tickets to reduce financial inconsistencies.
@@ -112,7 +112,7 @@ Monitor reversed (incorrect) SAP tickets to reduce financial inconsistencies.
 
 ---
 
-### 🔹 BUSA Operational Downtime Dashboard
+### 🔹 [BUSA Operational Downtime Dashboard](./busa-operational-downtime-dashboard)
 
 **Objective:**  
 Monitor operational downtime events and provide visibility into availability, interruptions, and operational performance indicators.
@@ -125,7 +125,7 @@ Monitor operational downtime events and provide visibility into availability, in
 
 ---
 
-### 🔹 Traffic Inspection Dashboard
+### 🔹 [Traffic Inspection Dashboard](./sso-traffic-blitz)
 
 **Objective:**  
 Monitor traffic inspection activities and provide visibility into driver and vehicle compliance across operational safety requirements.
