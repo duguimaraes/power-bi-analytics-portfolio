@@ -138,6 +138,19 @@ To integrate fields from different systems in order to facilitate the associatio
 
 ---
 
+### 🔹 Livestock Operations & Performance Dashboard (Under Development)
+
+**Objective:**  
+Monitor livestock operations through integrated analysis of animal stock, production, health, feeding, and operational efficiency indicators.
+
+**Key Insights:**
+
+* Monitoring of active animals, slaughter volume, and stock evolution in arrobas
+* Analysis of animal health, medication application, and mortality causes
+* Tracking of diet production, feeding efficiency, and operational performance
+
+---
+
 ## 📌 Notes
 
 * All data used in this portfolio is **anonymized** for demonstration purposes.
