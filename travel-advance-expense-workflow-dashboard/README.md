@@ -47,7 +47,7 @@ Support the administrative team by providing clear visibility into travel-relate
 
 ## 📂 Data & Queries
 
-This project includes SQL queries organized in `queries.sql`, responsible for:
+This project includes SQL query in `queries.sql`, responsible for:
 
 * Extracting the latest version of each travel request
 * Consolidating advances and expense reports into a unified dataset
