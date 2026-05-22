@@ -125,7 +125,7 @@ Monitor traffic inspection activities and provide visibility into driver and veh
 
 ---
 
-### 🔹 Livestock Operations & Performance Dashboard
+### 🔹 [Livestock Operations & Performance Dashboard](./livestock-operations-performance)
 
 **Objective:**  
 Monitor livestock operations through integrated analysis of animal stock, production, health, feeding, and operational efficiency indicators.
