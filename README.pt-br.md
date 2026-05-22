@@ -125,7 +125,7 @@ Monitorar atividades de inspeção de trânsito e fornecer visibilidade sobre a 
 
 ---
 
-### 🔹 Dashboard de Operações e Desempenho da Pecuária
+### 🔹 [Dashboard de Operações e Desempenho da Pecuária](./livestock-operations-performance)
 
 **Objetivo:**  
 Monitorar as operações pecuárias por meio da análise integrada do estoque animal, produção, sanidade, alimentação e indicadores de eficiência operacional.
