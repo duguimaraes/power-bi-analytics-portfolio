@@ -30,7 +30,7 @@ Auxiliar a gestão de Segurança e Saúde Ocupacional (SSO), fornecendo visibili
 ## 🖼️ Prévia do Dashboard
 
 ![Overview](./images/overview.png)
-![Overview](./images/overview2.png)
+![Overview](./images/overview.gif)
 
 ---
 
