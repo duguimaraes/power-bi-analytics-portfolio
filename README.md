@@ -1,6 +1,7 @@
 # 📊 Power BI Analytics Portfolio – Eduardo L. Guimarães
 
 🇧🇷 Leia em Português: [README.pt-br.md](./README.pt-br.md)
+🌐Online Portfolio: [Acessar Site](https://portfolio-website-seven-ivory-11.vercel.app/)
 
 Business Intelligence professional focused on building data-driven solutions using Power BI, SQL, and DAX.
 Experienced in developing end-to-end dashboards that support operational and strategic decision-making across multiple business areas.
