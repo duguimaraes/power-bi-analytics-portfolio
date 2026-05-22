@@ -47,7 +47,7 @@ Support management visibility over operational downtime events in the Busa machi
 
 ## 📂 Data & Queries
 
-This project includes SQL queries organized in `queries.sql`, responsible for:
+This project includes SQL query organized in `queries.sql`, responsible for:
 
 * Extracting downtime events from industrial process data
 * Mapping components, causes, and operational motives
@@ -64,7 +64,7 @@ Downtime events were modeled using a dimensional approach, separating components
 
 ## ⚠️ Notes
 
-* All data used in this project is **anonymized and slightly adjusted** to preserve confidentiality.
+* All data used in this project is **anonymized** to preserve confidentiality.
 * Labels and values were modified while maintaining realistic industrial scenarios.
 
 ---
