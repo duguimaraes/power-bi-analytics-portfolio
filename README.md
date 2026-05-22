@@ -173,9 +173,9 @@ Monitor mobile living area inspections and provide visibility into compliance le
 
 ## 📫 Contact
 
-* LinkedIn: *https://www.linkedin.com/in/eduardo-ladeira-guimar%C3%A3es-a272a427b/*
+* LinkedIn: *[Visit](https://www.linkedin.com/in/eduardo-ladeira-guimar%C3%A3es-a272a427b/)*
 * Email: *eduardoldrds@gmail.com*
-* Online Portfolio: [Visit Website](https://portfolio-website-seven-ivory-11.vercel.app/)
+* Online Portfolio: *[Visit](https://portfolio-website-seven-ivory-11.vercel.app/)*
 
 ---
 
