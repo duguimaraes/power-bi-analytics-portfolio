@@ -33,7 +33,7 @@ Atualmente atuo como Assistente de Dados, mas desempenho ativamente atividades a
 
 ---
 
-### 🔹 Dashboard de SLA de TI
+### 🔹 [Dashboard de SLA de TI](./sla-ti-dashboard)
 
 **Objetivo:**  
 Monitorar o desempenho da equipe de TI por meio de métricas de SLA.
@@ -47,7 +47,7 @@ Monitorar o desempenho da equipe de TI por meio de métricas de SLA.
 
 ---
 
-### 🔹 Análise de Estoque Obsoleto & Fluxo de Estoque
+### 🔹 [Análise de Estoque Obsoleto & Fluxo de Estoque](./inventory-control-dashboard)
 
 **Objetivo:**  
 Monitorar estoque obsoleto, movimentações de estoque (entrada/saída) e impacto financeiro total.
@@ -60,7 +60,7 @@ Monitorar estoque obsoleto, movimentações de estoque (entrada/saída) e impact
 
 ---
 
-### 🔹 Dashboard de Controle de Pesagem Manual
+### 🔹 [Dashboard de Controle de Pesagem Manual](./manual-weighing-dashboard)
 
 **Objetivo:**  
 Acompanhar operações de pesagem manual realizadas em balanças de carregamento.
@@ -73,7 +73,7 @@ Acompanhar operações de pesagem manual realizadas em balanças de carregamento
 
 ---
 
-### 🔹 Controle de Despesas de Viagem (Adiantamentos & Prestação de Contas)
+### 🔹 [Controle de Despesas de Viagem (Adiantamentos & Prestação de Contas)](./travel-advance-expense-workflow-dashboard)
 
 **Objetivo:**  
 Analisar despesas de viagem dos colaboradores, incluindo adiantamentos e prestações de contas.
@@ -83,6 +83,45 @@ Analisar despesas de viagem dos colaboradores, incluindo adiantamentos e presta�
 * Custo total por colaborador e departamento
 * Padrões de despesas e controle financeiro
 * Acompanhamento das etapas administrativas do processo
+
+---
+
+### 🔹 [Controle de Estorno de Tickets SAP](./sap-bulletin-reversal-dashboard)
+
+**Objetivo:**  
+Monitorar tickets SAP estornados (lançamentos incorretos) para reduzir inconsistências financeiras.
+
+**Principais Insights:**
+
+* Frequência das ocorrências de estorno
+* Departamentos com maiores índices de erro
+* Impacto dos lançamentos incorretos
+
+---
+
+### 🔹 [Dashboard de Paradas Operacionais BUSA](./busa-operational-downtime-dashboard)
+
+**Objetivo:**  
+Monitorar eventos de parada operacional e fornecer visibilidade sobre disponibilidade, interrupções e indicadores de desempenho operacional.
+
+**Principais Insights:**
+
+* Análise da ocorrência e duração das paradas
+* Monitoramento da disponibilidade operacional por unidade e período
+* Identificação de causas recorrentes e oportunidades de otimização de processos
+
+---
+
+### 🔹 [Dashboard de Inspeção de Trânsito](./sso-traffic-blitz)
+
+**Objetivo:**  
+Monitorar atividades de inspeção de trânsito e fornecer visibilidade sobre a conformidade de condutores e veículos em relação aos requisitos de segurança operacional.
+
+**Principais Insights:**
+
+* Análise de conformidades e não conformidades por item de inspeção
+* Monitoramento das condições de segurança de condutores e veículos
+* Identificação de desvios recorrentes para apoiar ações preventivas
 
 ---
 
@@ -96,45 +135,6 @@ Integrar campos provenientes de diferentes sistemas para facilitar a associaçã
 * Rastreabilidade da produção
 * Consistência entre sistemas
 * Consolidação de informações diversas em um único local
-
----
-
-### 🔹 Controle de Estorno de Tickets SAP
-
-**Objetivo:**  
-Monitorar tickets SAP estornados (lançamentos incorretos) para reduzir inconsistências financeiras.
-
-**Principais Insights:**
-
-* Frequência das ocorrências de estorno
-* Departamentos com maiores índices de erro
-* Impacto dos lançamentos incorretos
-
----
-
-### 🔹 Dashboard de Paradas Operacionais BUSA
-
-**Objetivo:**  
-Monitorar eventos de parada operacional e fornecer visibilidade sobre disponibilidade, interrupções e indicadores de desempenho operacional.
-
-**Principais Insights:**
-
-* Análise da ocorrência e duração das paradas
-* Monitoramento da disponibilidade operacional por unidade e período
-* Identificação de causas recorrentes e oportunidades de otimização de processos
-
----
-
-### 🔹 Dashboard de Inspeção de Trânsito
-
-**Objetivo:**  
-Monitorar atividades de inspeção de trânsito e fornecer visibilidade sobre a conformidade de condutores e veículos em relação aos requisitos de segurança operacional.
-
-**Principais Insights:**
-
-* Análise de conformidades e não conformidades por item de inspeção
-* Monitoramento das condições de segurança de condutores e veículos
-* Identificação de desvios recorrentes para apoiar ações preventivas
 
 ---
 
