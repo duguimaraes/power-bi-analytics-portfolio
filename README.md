@@ -2,8 +2,6 @@
 
 🇧🇷 Leia em Português: [README.pt-br.md](./README.pt-br.md)
 
-🔗 Online Portfolio: [Visit Website](https://portfolio-website-seven-ivory-11.vercel.app/)
-
 Business Intelligence professional focused on building data-driven solutions using Power BI, SQL, and DAX.
 Experienced in developing end-to-end dashboards that support operational and strategic decision-making across multiple business areas.
 
@@ -177,6 +175,7 @@ Monitor mobile living area inspections and provide visibility into compliance le
 
 * LinkedIn: *https://www.linkedin.com/in/eduardo-ladeira-guimar%C3%A3es-a272a427b/*
 * Email: *eduardoldrds@gmail.com*
+* Online Portfolio: [Visit Website](https://portfolio-website-seven-ivory-11.vercel.app/)
 
 ---
 
