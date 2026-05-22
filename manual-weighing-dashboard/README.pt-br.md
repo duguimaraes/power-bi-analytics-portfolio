@@ -67,7 +67,7 @@ Os dados foram estruturados e transformados no Power BI usando Power Query e DAX
 
 ## ⚠️ Observações
 
-* Todos os dados utilizados neste projeto são **fictícios ou anonimizados** para fins de demonstração.
+* Todos os dados utilizados neste projeto são **anonimizados** para fins de demonstração.
 
 * Os valores e rótulos foram ligeiramente ajustados para preservar a confidencialidade, mantendo cenários operacionais realistas.
 
