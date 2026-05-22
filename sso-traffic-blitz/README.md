@@ -45,7 +45,7 @@ Assist occupational safety management by providing clear visibility into traffic
 
 ## 📂 Data & Queries
 
-This project includes inspection records structured for analysis, covering:
+This project includes SQL query consolidated in `queries.sql`, responsible for:
 
 * Driver and vehicle inspection data
 * Compliance and non-compliance classification by safety item
