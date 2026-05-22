@@ -44,7 +44,7 @@ Support management visibility over reversal transactions (estornos), enabling be
 
 ## 📂 Data & Queries
 
-This project includes SQL queries consolidated in `queries.sql`, responsible for:
+This project includes SQL query consolidated in `queries.sql`, responsible for:
 
 * Extracting reversal-related records from multiple business units
 * Standardizing data across different ERP schemas
