@@ -50,7 +50,7 @@ Apoiar as apresentações gerenciais, fornecendo visibilidade clara dos níveis 
 
 ## 📂 Dados e Consultas
 
-Este projeto inclui consultas SQL organizadas em um único arquivo (`queries.sql`), abrangendo:
+Este projeto inclui a consulta SQL organizada em (`queries.sql`), abrangendo:
 
 * Consolidação de dados de estoque de múltiplas unidades de negócios
 * Agregação mensal de movimentações de estoque (entrada e saída)
@@ -67,7 +67,7 @@ Os dados foram estruturados e transformados no Power BI usando Power Query e DAX
 
 ## ⚠️ Observações
 
-* Todos os dados utilizados neste projeto são **fictícios ou anonimizados** para fins de demonstração.
+* Todos os dados utilizados neste projeto foram **anonimizados** para fins de demonstração.
 
 * Os valores e rótulos foram ligeiramente ajustados para preservar a confidencialidade, mantendo cenários de negócios realistas.
 
