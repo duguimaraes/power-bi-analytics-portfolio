@@ -175,6 +175,7 @@ Monitorar inspeções de áreas de vivência móvel e fornecer visibilidade sobr
 
 * LinkedIn: *https://www.linkedin.com/in/eduardo-ladeira-guimar%C3%A3es-a272a427b/*
 * E-mail: *eduardoldrds@gmail.com*
+* Portfólio: [Acessar Site](https://portfolio-website-seven-ivory-11.vercel.app/)
 
 ---
 
