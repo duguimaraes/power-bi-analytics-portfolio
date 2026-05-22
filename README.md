@@ -86,19 +86,6 @@ Analyze employee travel expenses including advances and accountability reports.
 
 ---
 
-### 🔹 Cotton Production Relationship Control
-
-**Objective:**
-To integrate fields from different systems in order to facilitate the association of exported cotton rolls and bales.
-
-**Key Insights:**
-
-* Production traceability
-* Consistency between systems
-* To bring together diverse information in one place
-
----
-
 ### 🔹 [SAP Ticket Reversal Control](./sap-bulletin-reversal-dashboard)
 
 **Objective:**
@@ -135,6 +122,19 @@ Monitor traffic inspection activities and provide visibility into driver and veh
 * Compliance and non-compliance analysis by inspection item
 * Monitoring of driver and vehicle safety conditions
 * Identification of recurring deviations to support preventive actions
+
+---
+
+### 🔹 Cotton Production Relationship Control
+
+**Objective:**
+To integrate fields from different systems in order to facilitate the association of exported cotton rolls and bales.
+
+**Key Insights:**
+
+* Production traceability
+* Consistency between systems
+* To bring together diverse information in one place
 
 ---
 
