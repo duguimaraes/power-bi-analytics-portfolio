@@ -125,6 +125,19 @@ Monitor traffic inspection activities and provide visibility into driver and veh
 
 ---
 
+### 🔹 Livestock Operations & Performance Dashboard
+
+**Objective:**  
+Monitor livestock operations through integrated analysis of animal stock, production, health, feeding, and operational efficiency indicators.
+
+**Key Insights:**
+
+* Monitoring of active animals, slaughter volume, and stock evolution in arrobas
+* Analysis of animal health, medication application, and mortality causes
+* Tracking of diet production, feeding efficiency, and operational performance
+
+---
+
 ### 🔹 Cotton Production Relationship Control
 
 **Objective:**
@@ -135,19 +148,6 @@ To integrate fields from different systems in order to facilitate the associatio
 * Production traceability
 * Consistency between systems
 * To bring together diverse information in one place
-
----
-
-### 🔹 Livestock Operations & Performance Dashboard (Under Development)
-
-**Objective:**  
-Monitor livestock operations through integrated analysis of animal stock, production, health, feeding, and operational efficiency indicators.
-
-**Key Insights:**
-
-* Monitoring of active animals, slaughter volume, and stock evolution in arrobas
-* Analysis of animal health, medication application, and mortality causes
-* Tracking of diet production, feeding efficiency, and operational performance
 
 ---
 
