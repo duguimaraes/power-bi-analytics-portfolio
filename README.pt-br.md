@@ -151,6 +151,19 @@ Integrar campos provenientes de diferentes sistemas para facilitar a associaçã
 
 ---
 
+### 🔹 Dashboard de Inspeção de Área de Vivência Móvel
+
+**Objetivo:**  
+Monitorar inspeções de áreas de vivência móvel e fornecer visibilidade sobre níveis de conformidade, condições de infraestrutura e requisitos de segurança operacional.
+
+**Principais Insights:**
+
+* Análise de conformidades e não conformidades por categoria de inspeção
+* Monitoramento das condições de infraestrutura, conservação e segurança
+* Identificação de desvios recorrentes para apoiar ações corretivas
+
+---
+
 ## 📌 Observações
 
 * Todos os dados utilizados neste portfólio são **anonimizados** para fins de demonstração.
