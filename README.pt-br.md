@@ -125,19 +125,6 @@ Monitorar atividades de inspeção de trânsito e fornecer visibilidade sobre a 
 
 ---
 
-### 🔹 Controle de Relacionamento da Produção de Algodão
-
-**Objetivo:**  
-Integrar campos provenientes de diferentes sistemas para facilitar a associação entre fardos e rolos de algodão exportados.
-
-**Principais Insights:**
-
-* Rastreabilidade da produção
-* Consistência entre sistemas
-* Consolidação de informações diversas em um único local
-
----
-
 ### 🔹 Dashboard de Operações e Desempenho da Pecuária
 
 **Objetivo:**  
@@ -148,6 +135,19 @@ Monitorar as operações pecuárias por meio da análise integrada do estoque an
 * Monitoramento de animais ativos, volume de abates e evolução do estoque em arrobas
 * Análise da sanidade animal, aplicação de medicamentos e causas de mortalidade
 * Acompanhamento da fabricação de dietas, eficiência alimentar e desempenho operacional
+
+---
+
+### 🔹 Controle de Relacionamento da Produção de Algodão
+
+**Objetivo:**  
+Integrar campos provenientes de diferentes sistemas para facilitar a associação entre fardos e rolos de algodão exportados.
+
+**Principais Insights:**
+
+* Rastreabilidade da produção
+* Consistência entre sistemas
+* Consolidação de informações diversas em um único local
 
 ---
 
