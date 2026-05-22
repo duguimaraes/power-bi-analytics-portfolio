@@ -46,7 +46,7 @@ Apoiar a gestão e a visibilidade dos eventos de tempo de inatividade operaciona
 
 ## 📂 Dados & Consultas
 
-O projeto inclui consultas SQL organizadas no arquivo `queries.sql`, responsáveis por:
+O projeto inclui a consulta SQL no arquivo `queries.sql`, responsável por:
 
 * Extração dos eventos de parada
 * Mapeamento de componentes, causas e motivos
