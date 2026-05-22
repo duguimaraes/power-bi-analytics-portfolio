@@ -34,6 +34,20 @@ I currently work as a Data Assistant but actively perform tasks aligned with a *
 
 ---
 
+### 🔹 IT SLA Dashboard
+
+**Objective:**
+Monitor IT team performance through SLA metrics.
+
+**Key Insights:**
+
+* Open vs closed tickets
+* Average resolution time
+* SLA compliance rate
+* Average user rating
+
+---
+
 ### 🔹 Obsolete Inventory & Stock Flow Analysis
 
 **Objective:**
@@ -44,6 +58,32 @@ Monitor obsolete inventory, stock movements (inbound/outbound), and total financ
 * Identification of high-value obsolete items and financial impact of inactive inventory
 * Stock movement patterns over time
 * Real-time monitoring of inventory values ​​for all units
+
+---
+
+### 🔹 Manual Weighing Control Dashboard
+
+**Objective:**
+Track manual weighing operations performed on load scales.
+
+**Key Insights:**
+
+* Frequency of manual operations
+* Quantitative comparison between automated and manual processes per unit
+* Efficiency monitoring and approval time for manual releases.
+
+---
+
+### 🔹 Travel Expense Control (Advances & Reimbursements)
+
+**Objective:**
+Analyze employee travel expenses including advances and accountability reports.
+
+**Key Insights:**
+
+* Total cost per employee and department
+* Expense patterns e  Financial control
+* Tracking of administrative steps in the process
 
 ---
 
@@ -73,62 +113,35 @@ Monitor reversed (incorrect) SAP tickets to reduce financial inconsistencies.
 
 ---
 
-### 🔹 Energy Cost Monitoring Dashboard
+### 🔹 BUSA Operational Downtime Dashboard
 
-**Objective:**
-Track monthly electricity costs across company units.
+**Objective:**  
+Monitor operational downtime events and provide visibility into availability, interruptions, and operational performance indicators.
 
 **Key Insights:**
 
-* Cost comparison between units
-* Monthly consumption trends
-* Identification of cost anomalies
+* Downtime occurrence and duration analysis
+* Monitoring of operational availability by unit and period
+* Identification of recurring causes and opportunities for process optimization
 
 ---
 
-### 🔹 Travel Expense Control (Advances & Reimbursements)
+### 🔹 Traffic Inspection Dashboard
 
-**Objective:**
-Analyze employee travel expenses including advances and accountability reports.
-
-**Key Insights:**
-
-* Total cost per employee and department
-* Expense patterns e  Financial control
-* Tracking of administrative steps in the process
-
----
-
-### 🔹 IT SLA Dashboard
-
-**Objective:**
-Monitor IT team performance through SLA metrics.
+**Objective:**  
+Monitor traffic inspection activities and provide visibility into driver and vehicle compliance across operational safety requirements.
 
 **Key Insights:**
 
-* Open vs closed tickets
-* Average resolution time
-* SLA compliance rate
-* Average user rating
-
----
-
-### 🔹 Manual Weighing Control Dashboard
-
-**Objective:**
-Track manual weighing operations performed on load scales.
-
-**Key Insights:**
-
-* Frequency of manual operations
-* Quantitative comparison between automated and manual processes per unit
-* Efficiency monitoring and approval time for manual releases.
+* Compliance and non-compliance analysis by inspection item
+* Monitoring of driver and vehicle safety conditions
+* Identification of recurring deviations to support preventive actions
 
 ---
 
 ## 📌 Notes
 
-* All data used in this portfolio is **fictional or anonymized** for demonstration purposes.
+* All data used in this portfolio is **anonymized** for demonstration purposes.
 * Dashboards were developed based on **real business scenarios**.
 
 ---
