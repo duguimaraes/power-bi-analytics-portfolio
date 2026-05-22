@@ -60,7 +60,7 @@ Data was structured and transformed in Power BI using Power Query and DAX, ensur
 
 ## ⚠️ Notes
 
-* All data used in this project is **fictional or anonymized** for demonstration purposes.
+* All data used in this project is **anonymized** for demonstration purposes.
 * Satisfaction metrics were calculated in Power BI using DAX measures, while SQL was used to extract and prepare the source data.
 
 ---
