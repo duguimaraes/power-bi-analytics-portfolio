@@ -47,7 +47,7 @@ Apoiar a equipe administrativa fornecendo visibilidade clara sobre solicitaçõe
 
 ## 📂 Dados & Consultas
 
-Este projeto inclui consultas SQL organizadas em `queries.sql`, responsáveis por:
+Este projeto inclui a consulta SQL em `queries.sql`, responsável por:
 
 * Extrair a versão mais recente de cada solicitação de viagem
 * Consolidar adiantamentos e prestações de contas em um dataset unificado
