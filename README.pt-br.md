@@ -138,6 +138,19 @@ Integrar campos provenientes de diferentes sistemas para facilitar a associaçã
 
 ---
 
+### 🔹 Dashboard de Operações e Desempenho da Pecuária (Em Desenvolvimento)
+
+**Objetivo:**  
+Monitorar as operações pecuárias por meio da análise integrada do estoque animal, produção, sanidade, alimentação e indicadores de eficiência operacional.
+
+**Principais Insights:**
+
+* Monitoramento de animais ativos, volume de abates e evolução do estoque em arrobas
+* Análise da sanidade animal, aplicação de medicamentos e causas de mortalidade
+* Acompanhamento da fabricação de dietas, eficiência alimentar e desempenho operacional
+
+---
+
 ## 📌 Observações
 
 * Todos os dados utilizados neste portfólio são **anonimizados** para fins de demonstração.
