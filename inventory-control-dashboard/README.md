@@ -46,7 +46,7 @@ Support management presentations by providing clear visibility into inventory le
 
 ## 📂 Data & Queries
 
-This project includes SQL queries organized in a single file (`queries.sql`), covering:
+This project includes SQL query organized in (`queries.sql`), covering:
 
 * Consolidation of inventory data from multiple business units
 * Monthly aggregation of stock movements (inbound and outbound)
