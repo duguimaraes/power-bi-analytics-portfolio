@@ -138,7 +138,7 @@ Integrar campos provenientes de diferentes sistemas para facilitar a associaçã
 
 ---
 
-### 🔹 Dashboard de Operações e Desempenho da Pecuária (Em Desenvolvimento)
+### 🔹 Dashboard de Operações e Desempenho da Pecuária
 
 **Objetivo:**  
 Monitorar as operações pecuárias por meio da análise integrada do estoque animal, produção, sanidade, alimentação e indicadores de eficiência operacional.
