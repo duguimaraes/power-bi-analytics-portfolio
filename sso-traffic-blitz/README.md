@@ -30,14 +30,14 @@ Assist occupational safety management by providing clear visibility into traffic
 ## 🖼️ Dashboard Preview
 
 ![Overview](./images/overview.png)
-![Overview](./images/overview2.png)
+![Overview](./images/overview.gif)
 
 ---
 
 ## 💡 Insights
 
 * Provides clear visibility into traffic inspection results performed by the Occupational Safety area.
-* Enables quick identification of the most frequent non-compliance items, such as mirrors, reverse alert, braking/tires, cellphone use while driving, seat belt and defensive driving.
+* Enables quick identification of the most frequent non-compliance items, such as seat belt, reverse alert, braking/tires, cellphone use while driving, seat belt and defensive driving.
 * Supports preventive actions by highlighting recurring safety deviations across drivers, vehicles, units and origins.
 * Improves operational traceability by consolidating detailed inspection records in a single analytical view.
 
